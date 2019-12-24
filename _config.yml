@@ -1,0 +1,7 @@
+include: ['_pages']
+markdown: kramdown
+highlighter: rouge
+kramdown:
+    input: GFM
+redcarpet:
+    extensions: ["footnotes", "tables", "no_intra_emphasis", "autolink", "xhtml", "smart"]

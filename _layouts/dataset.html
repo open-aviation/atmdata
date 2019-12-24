@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<h1> {{ page.title }} </h1>
+by {{ page.author }} ({{ page.date | date: "%Y" }})
+
+<h2>Link to data</h2>
+{{ page.link }}
+
+<h2>Description</h2>
+
+{% if page.doi != "" %}
+<div>
+    <img src="https://img.shields.io/badge/doi-{{ page.doi }}-brightgreen"/>
+</div>
+{% endif %}
+
+<div id="post">
+{{ content }}
+</div>
+
+
