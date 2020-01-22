@@ -9,7 +9,7 @@ This page lists a wide source of open source data related to aviation:
 ## Navigational data
 
 - <https://adds-faa.opendata.arcgis.com/> FAA Aeronautical Data Delivery Service
-- <www.airport-data.com/api/doc.php airport> and aircraft database
+- <https://www.airport-data.com/api/doc.php> airport and aircraft database
 - <https://opensky-network.org/aircraft-database>
 - [ICAO's Aircraft Type (DOC 8643)](https://www.icao.int/publications/DOC8643/Pages/Search.aspx)
 - [ICAO's Manufacturer (DOC 8643)](https://www.icao.int/publications/DOC8643/Pages/Manufacturers.aspx)
@@ -32,6 +32,6 @@ This page lists a wide source of open source data related to aviation:
 
 ## Trajectory data
 
-- <opensky-network.org>
+- <https://www.opensky-network.org>
 - <http://www.ads-b.nl/>
 - <https://www.adsbexchange.com/> (open?)
