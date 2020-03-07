@@ -4,9 +4,9 @@ title: Data sources
 permalink: /sources/
 ---
 
-Antonio Fernandez details carefully [here](https://datascience.aero/data-sources-aviation/) the common data sources existing in the aviation industry. The following list puts the focus on finding the corresponding data in an openly available version.
+Antonio Fernandez details carefully [on datascience.aero](https://datascience.aero/data-sources-aviation/) the common data sources existing in the aviation industry. The following list puts the focus on finding the corresponding data in an openly available version.
 
-Our preference goes for data that is fully open. Some providers make data freely available, some require registration, some put limits. We mention them all but it is your responsibility to check the licensing terms around the provided data.
+Our preference goes for data that is fully open. Some providers make data freely available, some ask for registration and may impose limits. We mention them all but it is your responsibility to check the licensing terms around the provided data.
 
 ## <i class="fas fa-plane"></i> Data related to aircraft, tail number, typecode, registration number
 
