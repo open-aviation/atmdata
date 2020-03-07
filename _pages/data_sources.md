@@ -57,6 +57,7 @@ Many airports and airlines provide an access to their API after you register for
 
 - Airports:
     - [Amsterdam Schiphol](https://developer.schiphol.nl/) airport in the Netherlands;
+    - [Finavia](https://developer.finavia.fi/) maintains Finland's airport network;
     - [Frankfurt](https://developer.fraport.de/) airport in Germany;
     - [Swedavia](https://apideveloper.swedavia.se/) owns and operates the major airports of Sweden;
 
