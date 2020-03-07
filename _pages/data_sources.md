@@ -6,9 +6,12 @@ permalink: /sources/
 
 This page lists a wide source of open source data related to aviation:
 
+Have a look at [this page](https://datascience.aero/data-sources-aviation/)
+
 ## Navigational data
 
 - <https://adds-faa.opendata.arcgis.com/> FAA Aeronautical Data Delivery Service
+- https://scds.swim.faa.gov/
 - <http://www.airport-data.com/api/doc.php> airport and aircraft database
 - <https://opensky-network.org/aircraft-database>
 - [ICAO's Aircraft Type (DOC 8643)](https://www.icao.int/publications/DOC8643/Pages/Search.aspx)
@@ -26,7 +29,6 @@ This page lists a wide source of open source data related to aviation:
 
 ## Weather, SIGMET, METAR
 
-<<<<<<< Updated upstream
 - <http://www.ogimet.com/index.phtml.en> METAR database
 - <https://mesonet.agron.iastate.edu/request/download.phtml> another METAR source
 - <http://www.aviationwxchartsarchive.com/product/sigmet> SIGMET
