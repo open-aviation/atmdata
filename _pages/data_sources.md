@@ -26,12 +26,13 @@ This page lists a wide source of open source data related to aviation:
 
 ## Weather, SIGMET, METAR
 
+<<<<<<< Updated upstream
 - <http://www.ogimet.com/index.phtml.en> METAR database
 - <https://mesonet.agron.iastate.edu/request/download.phtml> another METAR source
 - <http://www.aviationwxchartsarchive.com/product/sigmet> SIGMET
+- https://meteonet.umr-cnrm.fr/
 
-## Trajectory data
 
-- <https://www.opensky-network.org>
-- <http://www.ads-b.nl/>
-- <https://www.adsbexchange.com/> (open?)
+## Transporation data
+
+- https://www.odpt.org/
