@@ -19,10 +19,9 @@
    <link rel="stylesheet" href="/css/print.css" type="text/css" media="print" />
 
    <!-- Social network logos -->
-<!--    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" /> -->
    <script defer src="https://use.fontawesome.com/releases/v5.11.1/js/all.js"/>
 
-   <!-- In case you need some equations -->
+
    <script type="text/javascript"
            src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
    </script>
@@ -32,24 +31,30 @@
 
 
 <div class="site">
-  <div class="title">
-    <a href="/">atmdata.github.io</a>
-    <a class="extra" href="/sources/">data sources</a>
-    <a class="extra" href="/datasets/">data sets</a>
-    <a class="extra" href="/tools/">tools</a>
-    <a class="extra" href="https://github.com/atmdata/atmdata.github.io/issues/new">add info</a>
-    <a class="extra" href="/about/">about</a>
+  <div class="nav">
+    <a class="brand" href="/">ATM Data</a>
+
     <div class="social">
-    <a class="extra" href="https://github.com/atmdata">
-        <i class="fab fa-github fa-lg"></i>
-    </a>
-    <!--a class="extra" href="https://twitter.com/atmdata">
-        <i class="fab fa-twitter fa-lg"></i>
+      <a class="extra" href="https://github.com/atmdata">
+          <i class="fab fa-github fa-lg"></i>
+      </a>
+      <!--a class="extra" href="https://twitter.com/atmdata">
+          <i class="fab fa-twitter fa-lg"></i>
     </a-->
+    </div>
+
+    <div class="links">
+      <a href="/sources/"><i class="fas fa-paper-plane"></i> Data sources</a>
+      <a href="/datasets/"><i class="fas fa-globe-europe"></i> Data sets</a>
+      <a href="/tools/"><i class="fas fa-tools"></i> Tools</a>
+      <a href="https://github.com/atmdata/atmdata.github.io/issues/new"><i class="fas fa-pen"></i> Add info</a>
+      <a href="/about/"><i class="fas fa-user-ninja"></i> About</a>
     </div>
   </div>
 
+  <div class="content">
   {{ content }}
+  </div>
 
   <div class="footer">
     <div class="license">

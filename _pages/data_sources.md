@@ -8,7 +8,7 @@ Antonio Fernandez details carefully [on datascience.aero](https://datascience.ae
 
 Our preference goes for data that is fully open. Some providers make data freely available, some ask for registration and may impose limits. We mention them all but it is your responsibility to check the licensing terms around the provided data.
 
-## <i class="fas fa-plane"></i> Data related to aircraft, tail number, typecode, registration number
+## <i class="fas fa-plane"></i> Aircraft information, tail number, typecode, registration number
 
 Several website provide databases of tail numbers, transponder hexcodes associated to an aircraft type. Such information is precious when analysing aircraft trajectories.
 
@@ -19,7 +19,14 @@ Several website provide databases of tail numbers, transponder hexcodes associat
 - [doc8643.com](https://doc8643.com/) provides technical information related to many kinds of aircraft, as described in ICAO DOC 8643. See also [aircraft type](https://www.icao.int/publications/DOC8643/Pages/Search.aspx) and [manufacturers](https://www.icao.int/publications/DOC8643/Pages/Manufacturers.aspx)
 - [airwar.ru](http://airwar.ru/) is a comprehensive catalogue of technical data of aircraft (in Russian)
 
-## <i class="fas fa-globe"></i> Data related to airports, airspaces, ATS routes and navigational points
+## <i class="fas fa-rocket"></i> Aircraft and engine performance
+
+Much of the performance related data are kept closed by manufacturers. Here is a list of open data that are available:
+
+- [OpenAP](https://github.com/junzis/openap/) contains aircraft performance parameters for around 20 most common commercial aircraft. The Open Aircraft Performance Model is constructed using only open data and open models. It includes performance data regarding aircraft characteristics, drag polar, engine performances, and kinematic models.
+- [ICAO Aircraft Engine Emissions Databank](https://www.easa.europa.eu/easa-and-you/environment/icao-aircraft-engine-emissions-databank) contains the most comprehensive list of engine emission data. It is a database maintained by ICAO and regularly updated.
+
+## <i class="fas fa-globe"></i> Airports, airspaces, ATS routes and navigational points
 
 Many sources on the Internet are somehow redundant. They overlap quite well but some sources are more precise than others in particular areas of the world:
 
@@ -30,7 +37,7 @@ Many sources on the Internet are somehow redundant. They overlap quite well but 
 - Openstreetmap [overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API) provides very precise information about airports, including gates, runways, parking positions and more.  
   See an [example](https://www.openstreetmap.org/node/4079636007#map=17/51.47123/-0.45934&layers=TD) at London Heathrow airport. The [traffic](https://traffic-viz.github.io/) library wraps these calls for you.
 
-## <i class="fas fa-umbrella"></i> Data related to weather
+## <i class="fas fa-umbrella"></i> Weather
 
 The following websites provide a large history of METAR data.  
 METARs report basic weather information around airports:
@@ -73,6 +80,5 @@ Many airports and airlines provide an access to their API after you register for
 
 - French [Transport Data National Access Point](https://transport.data.gouv.fr/)  
   with few data sources related to [aviation](https://transport.data.gouv.fr/datasets?type=air-transport) (in French)
-
 - Japanese [Public Transportation Open Data Center](https://www.odpt.org/)  
   with a specific focus on [air transportation data](https://ckan.odpt.org/dataset?tags=%E8%88%AA%E7%A9%BA) (in Japanese)
