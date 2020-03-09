@@ -4,9 +4,24 @@ title: Data sources
 permalink: /sources/
 ---
 
-Antonio Fernandez details carefully [on datascience.aero](https://datascience.aero/data-sources-aviation/) the common data sources existing in the aviation industry. The following list puts the focus on finding the corresponding data in an openly available version.
 
-Our preference goes for data that is fully open. Some providers make data freely available, some ask for registration and may impose limits. We mention them all but it is your responsibility to check the licensing terms around the provided data.
+
+This page focuses on presenting various types of open data that are currently available for aviation research.[^1] Our preference goes for data that is fully open. Some providers make data freely available, some ask for registration and may impose limits. We try to cover the license issue as much as we can. However, it is your responsibility to check the licensing terms carefully around the provided data before using it.
+
+
+[^1]:Antonio Fernandez details carefully [on datascience.aero](https://datascience.aero/data-sources-aviation/) the common data sources existing in the aviation industry.  
+
+
+## <i class="fas fa-satellite-dish"></i> Surveillance data, ADS-B, Mode-S
+
+Currently, the best open flight data is undoubtedly the ADS-B data. It is relatively simple to set up your Mode S/ADS-B receiver and start gathering this data. Several crowd-sourced receiver networks also provide accesses to their live or historical data. Here are a few sources providing free access:
+
+- [OpenSky network (live API)](https://opensky-network.org/apidoc/) allows you to obtain live flight data over the world for free, without registration.
+- [OpenSky network (historical data)](https://opensky-network.org/data/impala) allows you to access historical data flight data (including decoded ADS-B data and raw Mode S data) over the world for free. Registration is needed. Access to the historical database must be requested individually.
+- [ADSB Exchange (live API)](https://www.adsbexchange.com/data/) allows you to obtain live flight data over the world freely. However, you must first feed data to ADS-B Exchange, and the registration is also required.
+
+For all the above sources, the data are provided for non-commercial use only. Specific agreements may be needed for commercial uses.
+
 
 ## <i class="fas fa-plane"></i> Aircraft information, tail number, typecode, registration number
 

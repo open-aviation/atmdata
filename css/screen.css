@@ -200,17 +200,30 @@ ul.posts span {
 }
 
 .footnotes {
-  margin-left: 3ex;
-  margin-right: 3ex;
-  color: #999;
+  font-size: 90%;
+  color: #444;
+  margin: 20px auto;
+  border-left: 3px solid #666;
+  padding-left:10px;
 }
 
-.footnotes hr {
-  display: none;
+.footnotes ol {
+  margin: 0px
 }
 
-.footnotes a {
-  color: #76baff;
+.footnotes::before {
+  content: "Footnotes:"
+}
+
+.footnote {
+  font-weight: bold;
+  background: #eee;
+}
+.footnote::before{
+  content:"["
+}
+.footnote::after{
+  content:"]"
 }
 
 /* Inputs */
