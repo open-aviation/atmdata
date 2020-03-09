@@ -4,24 +4,20 @@ title: Data sources
 permalink: /sources/
 ---
 
-
-
-This page focuses on presenting various types of open data that are currently available for aviation research.[^1] Our preference goes for data that is fully open. Some providers make data freely available, some ask for registration and may impose limits. We try to cover the license issue as much as we can. However, it is your responsibility to check the licensing terms carefully around the provided data before using it.
-
+This page various sources of open data that are currently available for aviation research.[^1] Our preference goes for data that is fully open. Some providers make data freely available, some ask for registration and may impose limits. We try to cover the license issue as much as we can. However, it is your responsibility to check the licensing terms carefully around the provided data before using it.
 
 [^1]:Antonio Fernandez details carefully [on datascience.aero](https://datascience.aero/data-sources-aviation/) the common data sources existing in the aviation industry.  
 
 
-## <i class="fas fa-satellite-dish"></i> Surveillance data, ADS-B, Mode-S
+## <i class="fas fa-satellite-dish"></i> Surveillance data, ADS-B, Mode S
 
-Currently, the best open flight data is undoubtedly the ADS-B data. It is relatively simple to set up your Mode S/ADS-B receiver and start gathering this data. Several crowd-sourced receiver networks also provide accesses to their live or historical data. Here are a few sources providing free access:
+Currently, the most easily accessible open flight data is undoubtedly ADS-B data. It is relatively simple to set up your Mode S/ADS-B receiver and start gathering data. Several crowd-sourced receiver networks also provide accesses to their live or historical data. Here are a few sources providing free access:
 
-- [OpenSky network (live API)](https://opensky-network.org/apidoc/) allows you to obtain live flight data over the world for free, without registration.
-- [OpenSky network (historical data)](https://opensky-network.org/data/impala) allows you to access historical data flight data (including decoded ADS-B data and raw Mode S data) over the world for free. Registration is needed. Access to the historical database must be requested individually.
-- [ADSB Exchange (live API)](https://www.adsbexchange.com/data/) allows you to obtain live flight data over the world freely. However, you must first feed data to ADS-B Exchange, and the registration is also required.
+- [The OpenSky Network (live API)](https://opensky-network.org/apidoc/) allows you to obtain live flight data over the world for free, without registration.
+- [The OpenSky Network (historical data)](https://opensky-network.org/data/impala) allows academics to access historical data flight data (including decoded ADS-B data and raw Mode S data) over the world for free. Registration is needed. Access to the historical database must be requested individually.
+- [ADSB Exchange (live API)](https://www.adsbexchange.com/data/) allows you to obtain live flight data over the world freely. However, you must first feed data to ADS-B Exchange, and registration is also required.
 
 For all the above sources, the data are provided for non-commercial use only. Specific agreements may be needed for commercial uses.
-
 
 ## <i class="fas fa-plane"></i> Aircraft information, tail number, typecode, registration number
 
@@ -39,7 +35,7 @@ Several website provide databases of tail numbers, transponder hexcodes associat
 Much of the performance related data are kept closed by manufacturers. Here is a list of open data that are available:
 
 - [OpenAP](https://github.com/junzis/openap/) contains aircraft performance parameters for around 20 most common commercial aircraft. The Open Aircraft Performance Model is constructed using only open data and open models. It includes performance data regarding aircraft characteristics, drag polar, engine performances, and kinematic models.
-- [ICAO Aircraft Engine Emissions Databank](https://www.easa.europa.eu/easa-and-you/environment/icao-aircraft-engine-emissions-databank) contains the most comprehensive list of engine emission data. It is a database maintained by ICAO and regularly updated.
+- [ICAO Aircraft Engine Emissions Databank](https://www.easa.europa.eu/easa-and-you/environment/icao-aircraft-engine-emissions-databank) contains the most comprehensive list of engine emission data. It is a database maintained by ICAO and is regularly updated.
 
 ## <i class="fas fa-globe"></i> Airports, airspaces, ATS routes and navigational points
 

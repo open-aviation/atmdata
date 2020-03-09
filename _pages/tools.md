@@ -4,9 +4,9 @@ title: Tools
 permalink: /tools/
 ---
 
-Here you will find a list of open-source tools that are available for ATM researchers.
+The following open-source software are freely available for all. These are precious tools for any ATM researcher.
 
-<hr>
+---
 
 ## BlueSky, an open air traffic simulator
 
@@ -19,7 +19,7 @@ J. M. Hoekstra and J. Ellerbroek,
 <https://github.com/TUDelft-CNS-ATM/bluesky>  
 GNU General Public License v3.0  
 
-<hr>
+---
 
 ## pyModeS, a decoder for ADS-B and Mode-S downlink messages
 
@@ -36,9 +36,7 @@ J. Sun and H. Vû and J. Ellerbroek and J. M. Hoekstra,
 <http://pymodes.readthedocs.io>  
 GNU General Public License v3.0
 
-
-<hr>
-
+---
 
 ## traffic, a toolbox for processing and analysing air traffic data
 
