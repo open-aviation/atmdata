@@ -4,7 +4,7 @@ title: Data sources
 permalink: /sources/
 ---
 
-This page various sources of open data that are currently available for aviation research.[^1] Our preference goes for data that is fully open. Some providers make data freely available, some ask for registration and may impose limits. We try to cover the license issue as much as we can. However, it is your responsibility to check the licensing terms carefully around the provided data before using it.
+This page presents various sources of open data that are currently available for aviation research.[^1] Our preference goes for data that is fully open. Some providers make data freely available, some ask for registration and may impose limits. We try to cover the license issue as much as we can. However, it is your responsibility to check the licensing terms carefully around the provided data before using it.
 
 [^1]:Antonio Fernandez details carefully [on datascience.aero](https://datascience.aero/data-sources-aviation/) the common data sources existing in the aviation industry.  
 
