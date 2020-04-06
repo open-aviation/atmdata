@@ -3,6 +3,7 @@ layout: dataset
 title: OpenSky COVID-19 Flight Dataset
 author: The OpenSky Network
 link: https://opensky-network.org/datasets/covid-19/
+doi: 10.5281/zenodo.3737101
 tags: dataset
 ---
 
