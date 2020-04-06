@@ -4,10 +4,7 @@ title: Data sources
 permalink: /sources/
 ---
 
-This page presents various sources of open data that are currently available for aviation research.[^1] Our preference goes for data that is fully open. Some providers make data freely available, some ask for registration and may impose limits. We try to cover the license issue as much as we can. However, it is your responsibility to check the licensing terms carefully around the provided data before using it.
-
-[^1]:Antonio Fernandez details carefully [on datascience.aero](https://datascience.aero/data-sources-aviation/) the common data sources existing in the aviation industry.  
-
+This page presents various sources of open data that are currently available for aviation research. Our preference goes for data that is fully open. Some providers make data freely available, some ask for registration and may impose limits. We try to cover the license issue as much as we can. However, it is your responsibility to check the licensing terms carefully around the provided data before using it.
 
 ## <i class="fas fa-satellite-dish"></i> Surveillance data, ADS-B, Mode S
 
@@ -60,6 +57,21 @@ The following website provides METAR, TAF and SIGMET history:
 
 Miscellaneous:
 - The Japanese Meteorological Agency 気象庁 provides weather information datasets on their [website](https://www.data.jma.go.jp/developer/index.html) (in Japanese).
+
+
+## <i class="fas fa-headphones"></i> Noise
+
+The European Aircraft Noise Services (EANS) <https://www.eans.net/> provides data from sensor devices across Europe. More specifically in the following countries:
+
+- France: [bruitparif.fr](https://rumeur.bruitparif.fr/) in the Greater Paris area
+- The Netherlands: [explane.org](https://reports.explane.org/nl/) or data from [NOMOS sensors](https://noiselab.casper.aero/ams/#page=actual) around Schiphol airport
+
+## <i class="fas fa-smog"></i> Air quality
+
+The European Environment Agency makes some measurements available through the [following interface](http://discomap.eea.europa.eu/map/fme/AirQualityExport.htm). More specifically in the following countries:
+
+- France: the [Prév'air](http://www2.prevair.org/) database provides observation and forecast maps
+- The Netherlands: a [webpage](https://www.luchtmeetnet.nl/) provided by the Dutch Ministry of Health (RIVM)
 
 
 ## <i class="fas fa-desktop"></i> Live data for airspace usage
