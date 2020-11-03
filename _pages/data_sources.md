@@ -16,9 +16,11 @@ Currently, the most easily accessible open flight data is undoubtedly ADS-B data
 
 For all the above sources, the data are provided for non-commercial use only. Specific agreements may be needed for commercial uses.
 
-## <i class="fas fa-plane"></i> Aircraft information, tail number, typecode, registration number
+## <i class="fas fa-plane"></i> Aircraft related data
 
 Several website provide databases of tail numbers, transponder hexcodes associated to an aircraft type. Such information is precious when analysing aircraft trajectories.
+
+Aircraft information:
 
 - [Junzi's aircraft database](https://junzis.com/adb/) stopped updating in 2018 with about 150k frames;
 - The OpenSky Network [aircraft database](https://opensky-network.org/aircraft-database) contains more than 460k frames;
@@ -26,6 +28,9 @@ Several website provide databases of tail numbers, transponder hexcodes associat
 - [airport-data.com](http://www.airport-data.com/api/doc.php) is a comprehensive airport and aircraft database free to request but you may officially not download the full database;
 - [doc8643.com](https://doc8643.com/) provides technical information related to many kinds of aircraft, as described in ICAO DOC 8643. See also [aircraft type](https://www.icao.int/publications/DOC8643/Pages/Search.aspx) and [manufacturers](https://www.icao.int/publications/DOC8643/Pages/Manufacturers.aspx)
 - [airwar.ru](http://airwar.ru/) is a comprehensive catalogue of technical data of aircraft (in Russian)
+
+Transponder information:
+- [Aircraft Comm-B capability database](https://github.com/junzis/gicb-db) contains a list of common Comm-B capabilities for a large number of aircraft Mode S transponders over the world.
 
 ## <i class="fas fa-rocket"></i> Aircraft and engine performance
 

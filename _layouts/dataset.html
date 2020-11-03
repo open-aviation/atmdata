@@ -10,14 +10,12 @@ by {{ page.author }} ({{ page.date | date: "%Y" }})
 
 <h2>Description</h2>
 
-{% if page.doi != "" %}
+{% if page.doi %}
 <div>
-    <img src="https://img.shields.io/badge/doi-{{ page.doi }}-brightgreen"/>
+    <img src="https://img.shields.io/badge/doi-{{ page.doi }}-brightgreen" />
 </div>
 {% endif %}
 
 <div id="post">
-{{ content }}
+    {{ content }}
 </div>
-
-
