@@ -54,15 +54,17 @@ Many sources on the Internet are somehow redundant. They overlap quite well but 
 
 The following websites provide a large history of METAR data.  
 METARs report basic weather information around airports:
+
 - <http://www.ogimet.com/index.phtml.en>
 - <https://mesonet.agron.iastate.edu/request/download.phtml>
 
 The following website provides METAR, TAF and SIGMET history:
+
 - <http://www.aviationwxchartsarchive.com/product/sigmet>
 
 Miscellaneous:
-- The Japanese Meteorological Agency 気象庁 provides weather information datasets on their [website](https://www.data.jma.go.jp/developer/index.html) (in Japanese).
 
+- The Japanese Meteorological Agency 気象庁 provides weather information datasets on their [website](https://www.data.jma.go.jp/developer/index.html) (in Japanese).
 
 ## <i class="fas fa-headphones"></i> Noise
 
@@ -78,33 +80,35 @@ The European Environment Agency makes some measurements available through the [f
 - France: the [Prév'air](http://www2.prevair.org/) database provides observation and forecast maps
 - The Netherlands: a [webpage](https://www.luchtmeetnet.nl/) provided by the Dutch Ministry of Health (RIVM)
 
-
 ## <i class="fas fa-desktop"></i> Live data for airspace usage
 
 Some providers publish information about the current state of the network:
+
 - Eurocontrol provide information about the current state of the network with regulation information on their [homepage](https://www.eurocontrol.int/);
 - You may apply for access to the [FAA SWIM live feed](https://scds.swim.faa.gov/);
 
 ## <i class="fas fa-plane-departure"></i> Developer API from airlines and airports
 
 Many airports and airlines provide an access to their API after you register for an API key:  
-*(in alphabetic order)*
+_(in alphabetic order)_
 
 - Airports:
-    - [Amsterdam Schiphol](https://developer.schiphol.nl/) airport in the Netherlands;
-    - [Finavia](https://developer.finavia.fi/) maintains Finland's airport network;
-    - [Frankfurt](https://developer.fraport.de/) airport in Germany;
-    - [Swedavia](https://apideveloper.swedavia.se/) owns and operates the major airports of Sweden;
+
+  - [Amsterdam Schiphol](https://developer.schiphol.nl/) airport in the Netherlands;
+  - [Finavia](https://developer.finavia.fi/) maintains Finland's airport network;
+  - [Frankfurt](https://developer.fraport.de/) airport in Germany;
+  - [Swedavia](https://apideveloper.swedavia.se/) owns and operates the major airports of Sweden;
+  - [Avinor](https://avinor.no/en/corporate/services/flydata/flydata-i-xml-format) owns and operates the major airports of Norway;
 
 - Airlines
-    - [Air France and KLM](https://developer.airfranceklm.com/);
-    - [British Airways](https://developer.iairgroup.com/british_airways);
-    - [Lufthansa](https://developer.lufthansa.com/);
-    - [Singapore Airlines](https://developer.singaporeair.com/docs/Flight_Status/);
+  - [Air France and KLM](https://developer.airfranceklm.com/);
+  - [British Airways](https://developer.iairgroup.com/british_airways);
+  - [Lufthansa](https://developer.lufthansa.com/);
+  - [Singapore Airlines](https://developer.singaporeair.com/docs/Flight_Status/);
 
 ## <i class="fas fa-subway"></i> Miscellaneous transportation data
 
-*(in alphabetic order)*
+_(in alphabetic order)_
 
 - French [Transport Data National Access Point](https://transport.data.gouv.fr/)  
   with few data sources related to [aviation](https://transport.data.gouv.fr/datasets?type=air-transport) (in French)
