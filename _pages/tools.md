@@ -86,3 +86,21 @@ Xavier Olive,
 <https://github.com/xoolive/traffic>  
 <https://traffic-viz.github.io/>  
 MIT License
+
+---
+
+## openSkies, an R package for aviation data retrieval, analysis and visualization
+
+openSkies aims to provide the data structures and functionalities required to analyze and visualize aviation data in R. 
+
+The package provides a system of classes with associated methods representing the most common entities related to aviation data, such as aircrafts, airports, flights or routes.
+
+It also includes a client interface to the OpenSky live API, and a decoder of ADSB messages.
+
+Finally, functions to process and plot aircraft and flight data are also provided.
+
+A full, detailed list of the available features can be found in the manual and the vignette of the package.
+
+<https://CRAN.R-project.org/package=openSkies>
+<https://github.com/Rafael-Ayala/openSkies>
+CC BY-NC 4.0 License
