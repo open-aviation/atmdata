@@ -12,7 +12,7 @@ Currently, the most easily accessible open flight data is undoubtedly ADS-B data
 
 - [The OpenSky Network (live API)](https://opensky-network.org/apidoc/) allows you to obtain live flight data over the world for free, without registration.
 - [The OpenSky Network (historical data)](https://opensky-network.org/data/impala) allows academics to access historical data flight data (including decoded ADS-B data and raw Mode S data) over the world for free. Registration is needed. Access to the historical database must be requested individually.
-- [ADSB Exchange (live API)](https://www.adsbexchange.com/data/) allows you to obtain live flight data over the world freely. However, you must first feed data to ADS-B Exchange, and registration is also required.
+- [ADS-B Exchange (live API)](https://www.adsbexchange.com/data/) allows you to obtain live flight data over the world freely. However, you must first feed data to ADS-B Exchange, and registration is also required.
 
 For all the above sources, the data are provided for non-commercial use only. Specific agreements may be needed for commercial uses.
 
@@ -79,6 +79,9 @@ The European Environment Agency makes some measurements available through the [f
 
 - France: the [Prév'air](http://www2.prevair.org/) database provides observation and forecast maps
 - The Netherlands: a [webpage](https://www.luchtmeetnet.nl/) provided by the Dutch Ministry of Health (RIVM)
+
+The Japanese National Institute for Environmental Studies provides historical data of air quality measurements:
+- Japan: [National Institute for Environmental Studies](http://www.nies.go.jp/igreen/) (Japanese)
 
 ## <i class="fas fa-desktop"></i> Live data for airspace usage
 
