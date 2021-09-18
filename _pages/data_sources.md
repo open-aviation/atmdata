@@ -30,6 +30,7 @@ Aircraft information:
 - [airwar.ru](http://airwar.ru/) is a comprehensive catalogue of technical data of aircraft (in Russian)
 
 Transponder information:
+
 - [Aircraft Comm-B capability database](https://github.com/junzis/gicb-db) contains a list of common Comm-B capabilities for a large number of aircraft Mode S transponders over the world.
 
 ## <i class="fas fa-rocket"></i> Aircraft and engine performance
@@ -57,6 +58,7 @@ METARs report basic weather information around airports:
 
 - <http://www.ogimet.com/index.phtml.en>
 - <https://mesonet.agron.iastate.edu/request/download.phtml>
+- <https://aviationweather.gov/dataserver>
 
 The following website provides METAR, TAF and SIGMET history:
 
@@ -98,10 +100,13 @@ _(in alphabetic order)_
 - Airports:
 
   - [Amsterdam Schiphol](https://developer.schiphol.nl/) airport in the Netherlands;
+  - [Avinor](https://avinor.no/en/corporate/services/flydata/flydata-i-xml-format) owns and operates the major airports of Norway;
+  - [Dubai](https://www.dubaipulse.gov.ae/organisation/dubai-airports/service/dubai-airports-flight-info) airport;
   - [Finavia](https://developer.finavia.fi/) maintains Finland's airport network;
   - [Frankfurt](https://developer.fraport.de/) airport in Germany;
+  - [Hamburg](https://portal.api.hamburg-airport.de/) airport in Germany;
+  - [Hong Kong](https://data.gov.hk/en-data/dataset/aahk-team1-flight-info) airport;
   - [Swedavia](https://apideveloper.swedavia.se/) owns and operates the major airports of Sweden;
-  - [Avinor](https://avinor.no/en/corporate/services/flydata/flydata-i-xml-format) owns and operates the major airports of Norway;
 
 - Airlines
   - [Air France and KLM](https://developer.airfranceklm.com/);
