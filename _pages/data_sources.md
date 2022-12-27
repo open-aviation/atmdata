@@ -104,16 +104,14 @@ _(in alphabetic order)_
   - [Avinor](https://avinor.no/en/corporate/services/flydata/flydata-i-xml-format) owns and operates the major airports of Norway;
   - [Dubai](https://www.dubaipulse.gov.ae/organisation/dubai-airports/service/dubai-airports-flight-info) airport;
   - [Finavia](https://developer.finavia.fi/) maintains Finland's airport network;
-  - [Frankfurt](https://developer.fraport.de/) airport in Germany;
+  - [Münster/Osnabrück](https://opendata.stadt-muenster.de/dataset/flugplandaten-des-flughafen-m%C3%BCnsterosnabr%C3%BCck-fmo) airport in Germany;
   - [Hamburg](https://portal.api.hamburg-airport.de/) airport in Germany;
   - [Hong Kong](https://data.gov.hk/en-data/dataset/aahk-team1-flight-info) airport;
   - [Swedavia](https://apideveloper.swedavia.se/) owns and operates the major airports of Sweden;
 
 - Airlines
   - [Air France and KLM](https://developer.airfranceklm.com/);
-  - [British Airways](https://developer.iairgroup.com/british_airways);
   - [Lufthansa](https://developer.lufthansa.com/);
-  - [Singapore Airlines](https://developer.singaporeair.com/docs/Flight_Status/);
 
 ## <i class="fas fa-cargo-schedules"></i> Cargo schedules from airlines
 
