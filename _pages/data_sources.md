@@ -115,6 +115,16 @@ _(in alphabetic order)_
   - [Lufthansa](https://developer.lufthansa.com/);
   - [Singapore Airlines](https://developer.singaporeair.com/docs/Flight_Status/);
 
+## <i class="fas fa-cargo-schedules"></i> Cargo schedules from airlines
+
+Some airlines offer timetables in a machine-readable format like CSV or XLS for cargo operations (may include some flight numbers representing truck or railway connections):
+_(in alphabetic order)_
+
+  - [American Airlines Cargo](https://www.aacargo.com/ship/schedules.html);
+  - [Lufthansa Cargo](https://lufthansa-cargo.com/de/network/schedule-routings);
+  - [Singapore Airlines Cargo](https://www.siacargo.com/download_timetable.asp);
+  - [United Cargo](https://www.unitedcargo.com/en/us/book/schedules.html);
+
 ## <i class="fas fa-subway"></i> Miscellaneous transportation data
 
 _(in alphabetic order)_
