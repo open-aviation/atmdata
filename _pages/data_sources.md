@@ -86,7 +86,7 @@ The European Environment Agency makes some measurements available through the [f
 The Japanese National Institute for Environmental Studies provides historical data of air quality measurements:
 - Japan: [National Institute for Environmental Studies](http://www.nies.go.jp/igreen/) (Japanese)
 
-## <i class="fas fa-desktop"></i> Live data for airspace usage
+## <i class="fas fa-table-list"></i> Live data for airspace usage
 
 Some providers publish information about the current state of the network:
 
@@ -113,7 +113,7 @@ _(in alphabetic order)_
   - [Air France and KLM](https://developer.airfranceklm.com/);
   - [Lufthansa](https://developer.lufthansa.com/);
 
-## <i class="fas fa-cargo-schedules"></i> Cargo schedules from airlines
+## <i class="fas fa-calendar-days"></i> Cargo schedules from airlines
 
 Some airlines offer timetables in a machine-readable format like CSV or XLS for cargo operations (may include some flight numbers representing truck or railway connections):
 _(in alphabetic order)_
