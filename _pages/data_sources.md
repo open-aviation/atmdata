@@ -115,7 +115,7 @@ _(in alphabetic order)_
 
 ## <i class="fas fa-calendar-days"></i> Cargo schedules from airlines
 
-Some airlines offer timetables in a machine-readable format like CSV or XLS for cargo operations (may include some flight numbers representing truck or railway connections):
+Some airlines offer timetables in a machine-readable format like CSV or XLS for cargo operations (may include some flight numbers representing truck or railway connections):  
 _(in alphabetic order)_
 
   - [American Airlines Cargo](https://www.aacargo.com/ship/schedules.html);
