@@ -104,9 +104,10 @@ _(in alphabetic order)_
   - [Avinor](https://avinor.no/en/corporate/services/flydata/flydata-i-xml-format) owns and operates the major airports of Norway;
   - [Dubai](https://www.dubaipulse.gov.ae/organisation/dubai-airports/service/dubai-airports-flight-info) airport;
   - [Finavia](https://developer.finavia.fi/) maintains Finland's airport network;
-  - [Münster/Osnabrück](https://opendata.stadt-muenster.de/dataset/flugplandaten-des-flughafen-m%C3%BCnsterosnabr%C3%BCck-fmo) airport in Germany;
+  - [Luxembourg](https://data.public.lu/en/datasets/arrivees-et-departs-de-laeroport-de-luxembourg/) airport;
   - [Hamburg](https://portal.api.hamburg-airport.de/) airport in Germany;
   - [Hong Kong](https://data.gov.hk/en-data/dataset/aahk-team1-flight-info) airport;
+  - [Münster/Osnabrück](https://opendata.stadt-muenster.de/dataset/flugplandaten-des-flughafen-m%C3%BCnsterosnabr%C3%BCck-fmo) airport in Germany;
   - [Swedavia](https://apideveloper.swedavia.se/) owns and operates the major airports of Sweden;
 
 - Airlines
@@ -119,6 +120,7 @@ Some airlines offer timetables in a machine-readable format like CSV or XLS for 
 _(in alphabetic order)_
 
   - [American Airlines Cargo](https://www.aacargo.com/ship/schedules.html);
+  - [IndiGo Airlines](https://www.goindigo.in/information/flight-schedule.html);
   - [Lufthansa Cargo](https://lufthansa-cargo.com/de/network/schedule-routings);
   - [Singapore Airlines Cargo](https://www.siacargo.com/download_timetable.asp);
   - [United Cargo](https://www.unitedcargo.com/en/us/book/schedules.html);
