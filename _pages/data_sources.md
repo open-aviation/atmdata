@@ -121,6 +121,7 @@ _(in alphabetic order)_
 
   - [American Airlines Cargo](https://www.aacargo.com/ship/schedules.html);
   - [IndiGo Airlines](https://www.goindigo.in/information/flight-schedule.html);
+  - [ITA Airways](https://www.ita-airways-cargo.com/s/flight-schedules?language=it);
   - [Lufthansa Cargo](https://lufthansa-cargo.com/de/network/schedule-routings);
   - [Singapore Airlines Cargo](https://www.siacargo.com/download_timetable.asp);
   - [United Cargo](https://www.unitedcargo.com/en/us/book/schedules.html);
