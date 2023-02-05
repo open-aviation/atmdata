@@ -114,7 +114,7 @@ _(in alphabetic order)_
   - [Air France and KLM](https://developer.airfranceklm.com/);
   - [Lufthansa](https://developer.lufthansa.com/);
 
-## <i class="fas fa-calendar-days"></i> Cargo schedules from airlines
+## <i class="fas fa-calendar-days"></i> Schedules from airlines
 
 Some airlines offer timetables in a machine-readable format like CSV or XLS for cargo operations (may include some flight numbers representing truck or railway connections):  
 _(in alphabetic order)_
@@ -124,6 +124,7 @@ _(in alphabetic order)_
   - [ITA Airways](https://www.ita-airways-cargo.com/s/flight-schedules?language=it);
   - [Lufthansa Cargo](https://lufthansa-cargo.com/de/network/schedule-routings);
   - [Singapore Airlines Cargo](https://www.siacargo.com/download_timetable.asp);
+  - [SpiceJet](https://corporate.spicejet.com/schedules.aspx);
   - [United Cargo](https://www.unitedcargo.com/en/us/book/schedules.html);
 
 ## <i class="fas fa-subway"></i> Miscellaneous transportation data
