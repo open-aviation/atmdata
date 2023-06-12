@@ -6,6 +6,8 @@ permalink: /sources/
 
 This page presents various sources of open data that are currently available for aviation research. Our preference goes for data that is fully open. Some providers make data freely available, some ask for registration and may impose limits. We try to cover the license issue as much as we can. However, it is your responsibility to check the licensing terms carefully around the provided data before using it.
 
+
+
 ## <i class="fas fa-satellite-dish"></i> Surveillance data, ADS-B, Mode S
 
 Currently, the most easily accessible open flight data is undoubtedly ADS-B data. It is relatively simple to set up your Mode S/ADS-B receiver and start gathering data. Several crowd-sourced receiver networks also provide accesses to their live or historical data. Here are a few sources providing free access:
@@ -16,19 +18,31 @@ Currently, the most easily accessible open flight data is undoubtedly ADS-B data
 
 For all the above sources, the data are provided for non-commercial use only. Specific agreements may be needed for commercial uses.
 
+## <i class="fas fa-plane"></i> Flight (or schedule) data
+
+The following websites provides access to flight data, usually contains the origin, destination, number of passengers or aircraft information
+
+- [🇺🇸 Bureau of Transportation Statistics (T-100 Segment, All Carriers)](https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FMG). This table combines domestic and international T-100 segment data reported by U.S. and foreign air carriers, and contains non-stop segment data by aircraft type and service class for transported passengers, freight and mail, available capacity, scheduled departures, departures performed, aircraft hours, and load factor. 
+- [🇪🇺 Aviation Data for Research](https://www.eurocontrol.int/dashboard/rnd-data-archive) contains all detailed flight information regarding flight departing and/or arriving from EUROCONTROL member states. The data is only publish with two-year delay and only include four months each year, which are March, June, September, and December. Access to this data need to be requested on the website.
+- [🇧🇷 Dados Estatísticos, Agência Nacional de Aviação Civil (ANAC), Brazil](https://www.gov.br/anac/pt-br/assuntos/dados-e-estatisticas/dados-estatisticos) provides all flight information departing from and/or arriving at Brazil since 2000
+- [🇮🇳 Flight Schedule Date, India](https://data.gov.in/resource/flight-schedule) contains the data regarding from AirSewa data, including data about the flight schedule, status, and airport services.
+- [🇦🇺 Aviation Statistics, Australia](https://www.bitre.gov.au/statistics/aviation) contains domestic and international aviation statistics including airline activity, domestic on time performance, domestic airfares index, airfreight, airport traffic, general aviation activity, aviation fuel sales and air distances.
+
+
 ## <i class="fas fa-plane"></i> Aircraft related data
 
 Several website provide databases of tail numbers, transponder hexcodes associated to an aircraft type. Such information is precious when analysing aircraft trajectories.
 
 Aircraft information:
 
-- [Junzi's aircraft database](https://junzis.com/adb/) stopped updating in 2018 with about 150k frames;
 - The OpenSky Network [aircraft database](https://opensky-network.org/aircraft-database) contains more than 460k frames;
 - Some Regional Monitoring Agencies (RMA) provide an open access to data matching aircraft registered in their area, specifically in [Europe](https://www.eurocontrol.int/rmalive/operatorList.do) or in the [Middle-East](midrma.com/en/rvsm);
 - [airport-data.com](http://www.airport-data.com/api/doc.php) is a comprehensive airport and aircraft database free to request but you may officially not download the full database;
 - [doc8643.com](https://doc8643.com/) provides technical information related to many kinds of aircraft, as described in ICAO DOC 8643. See also [aircraft type](https://www.icao.int/publications/DOC8643/Pages/Search.aspx) and [manufacturers](https://www.icao.int/publications/DOC8643/Pages/Manufacturers.aspx)
 - [airwar.ru](http://airwar.ru/) is a comprehensive catalogue of technical data of aircraft (in Russian)
 - [Mictronics' aircraft DB](https://www.mictronics.de/aircraft-database/)
+- [Junzi's aircraft database](https://junzis.com/adb/) with about 150k frames (stopped updating in 2018)
+
 
 Transponder information:
 
