@@ -27,6 +27,8 @@ The following websites provides access to flight data, usually contains the orig
 - [🇧🇷 Dados Estatísticos, Agência Nacional de Aviação Civil (ANAC), Brazil](https://www.gov.br/anac/pt-br/assuntos/dados-e-estatisticas/dados-estatisticos) provides all flight information departing from and/or arriving at Brazil since 2000
 - [🇮🇳 Flight Schedule Date, India](https://data.gov.in/resource/flight-schedule) contains the data regarding from AirSewa data, including data about the flight schedule, status, and airport services.
 - [🇦🇺 Aviation Statistics, Australia](https://www.bitre.gov.au/statistics/aviation) contains domestic and international aviation statistics including airline activity, domestic on time performance, domestic airfares index, airfreight, airport traffic, general aviation activity, aviation fuel sales and air distances.
+- [🇭🇰 Flight Information, Hong Kong](https://data.gov.hk/en-data/dataset/aahk-team1-flight-info) contains flight Information of Hong Kong International Airport, including data about the flight schedule, status, passenger/cargo flight. This web service returns historical data (previous calendar day) in 
+JSON format.
 
 
 ## <i class="fas fa-plane"></i> Aircraft related data
@@ -74,6 +76,7 @@ METARs report basic weather information around airports:
 - <http://www.ogimet.com/index.phtml.en>
 - <https://mesonet.agron.iastate.edu/request/download.phtml>
 - <https://aviationweather.gov/dataserver>
+- <https://navlost.eu/>
 
 The following website provides METAR, TAF and SIGMET history:
 
