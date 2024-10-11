@@ -15,6 +15,11 @@ Currently, the most easily accessible open flight data is undoubtedly ADS-B data
 - [The OpenSky Network (live API)](https://opensky-network.org/apidoc/) allows you to obtain live flight data over the world for free, without registration.
 - [The OpenSky Network (historical data)](https://opensky-network.org/data/impala) allows academics to access historical data flight data (including decoded ADS-B data and raw Mode S data) over the world for free. Registration is needed. Access to the historical database must be requested individually.
 - [ADS-B Exchange (live API)](https://www.adsbexchange.com/data/) allows you to obtain live flight data over the world freely. However, you must first feed data to ADS-B Exchange, and registration is also required.
+- [Airplanes.Live](https://airplanes.live/): like many others live and historical data is available in some ways.
+- [adsb.lol](https://adsb.lol/)
+- [adsb.fi](https://adsb.fi/): new community of feeders who fled from ADS-B Exchange after it went commercial.
+- [TheAirTraffic](https://theairtraffic.com/)
+
 
 For all the above sources, the data are provided for non-commercial use only. Specific agreements may be needed for commercial uses.
 
