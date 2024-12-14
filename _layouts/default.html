@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
 <head>
-   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-   <title>{{ page.title }}</title>
-   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-   <meta name="author" content="Xavier Olive, Junzi Sun" />
+  <meta name="author" content="Xavier Olive, Junzi Sun" />
 
+<<<<<<< Updated upstream
    <link rel="shortcut icon" type="image/x-icon" href="/atmdata/css/favicon.ico">
 
    <!-- syntax highlighting CSS -->
@@ -16,76 +18,85 @@
    <link rel="stylesheet" href="/atmdata/css/screen.css" type="text/css" media="screen, projection, print" />
 
    <link rel="stylesheet" href="/atmdata/css/print.css" type="text/css" media="print" />
+=======
+  <link rel="shortcut icon" type="image/x-icon" href="/css/favicon.ico">
 
-   <!-- Social network logos -->
-   <script defer src="https://use.fontawesome.com/releases/v6.2.1/js/all.js"/>
+  <!-- syntax highlighting CSS -->
+  <link rel="stylesheet" href="/css/solarized-light.css" type="text/css" />
+
+  <!-- Homepage CSS -->
+  <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection, print" />
+
+  <link rel="stylesheet" href="/css/print.css" type="text/css" media="print" />
+>>>>>>> Stashed changes
+
+  <!-- Social network logos -->
+  <script defer src="https://use.fontawesome.com/releases/v6.2.1/js/all.js" />
 
 
-   <script type="text/javascript"
-           src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-   </script>
+  <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+  </script>
 
-   <!-- Google tag (gtag.js) -->
-   <script async src="https://www.googletagmanager.com/gtag/js?id=G-RLX3QN0JQY"></script>
-   <script>
-     window.dataLayer = window.dataLayer || [];
-     function gtag(){dataLayer.push(arguments);}
-     gtag('js', new Date());
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-RLX3QN0JQY"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
 
-     gtag('config', 'G-RLX3QN0JQY');
-   </script>
+    gtag('config', 'G-RLX3QN0JQY');
+  </script>
 
 </head>
+
 <body>
 
 
-<div class="site">
-  <div class="nav">
-    <div class="brand">
-    <a href="/">Open Aviation Data</a>
-    </div>
+  <div class="site">
+    <div class="nav">
+      <div class="brand">
+        <a href="/">Open Aviation Data</a>
+      </div>
 
 
-    <div class="social">
-      <a class="extra" href="https://github.com/atmdata/atmdata.github.io">
+      <div class="social">
+        <a class="extra" href="https://github.com/atmdata/atmdata.github.io">
           <i class="fab fa-github fa-lg"></i>
-      </a>
-      <!--a class="extra" href="https://twitter.com/atmdata">
+        </a>
+        <!--a class="extra" href="https://twitter.com/atmdata">
           <i class="fab fa-twitter fa-lg"></i>
     </a-->
+      </div>
+
+      <div class="links">
+        <a href="/sources/"><i class="fas fa-paper-plane"></i> Data sources</a>
+        <a href="/datasets/"><i class="fas fa-globe-europe"></i> Datasets</a>
+        <a href="/tools/"><i class="fas fa-tools"></i> Tools</a>
+        <a href="https://github.com/atmdata/atmdata.github.io/issues/new"><i class="fas fa-pen"></i> Add info</a>
+        <a href="/about/"><i class="fas fa-user-ninja"></i> About</a>
+      </div>
     </div>
 
-    <div class="links">
-      <a href="/sources/"><i class="fas fa-paper-plane"></i> Data sources</a>
-      <a href="/datasets/"><i class="fas fa-globe-europe"></i> Datasets</a>
-      <a href="/tools/"><i class="fas fa-tools"></i> Tools</a>
-      <a href="https://github.com/atmdata/atmdata.github.io/issues/new"><i class="fas fa-pen"></i> Add info</a>
-      <a href="/about/"><i class="fas fa-user-ninja"></i> About</a>
+    <div class="content">
+      {{ content }}
+    </div>
+
+    <div class="footer">
+      <div class="license">
+        <p>
+          Unless specified otherwise, the contents of this website is published
+          under the terms of the Creative Commons
+          <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">BY-NC-SA</a>
+          license. <a id="more-about-this" href="/copyright">More about this.</a>
+        </p>
+        <p>
+          <img height=20pt width=auto alt="by" src="https://creativecommons.org/images/deed/by.png" />
+          <img height=20pt width=auto alt="nc" src="https://creativecommons.org/images/deed/nc.png" />
+          <img height=20pt width=auto alt="sa" src="https://creativecommons.org/images/deed/sa.png" />
+      </div>
     </div>
   </div>
-
-  <div class="content">
-  {{ content }}
-  </div>
-
-  <div class="footer">
-    <div class="license">
-      <p>
-      Unless specified otherwise, the contents of this website is published
-      under the terms of the Creative Commons
-      <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">BY-NC-SA</a>
-      license. <a id="more-about-this" href="/copyright">More about this.</a>
-      </p>
-      <p>
-      <img height=20pt width=auto alt="by"
-           src="https://creativecommons.org/images/deed/by.png"/>
-      <img height=20pt width=auto alt="nc"
-           src="https://creativecommons.org/images/deed/nc.png"/>
-      <img height=20pt width=auto alt="sa"
-           src="https://creativecommons.org/images/deed/sa.png"/>
-    </div>
-  </div>
-</div>
 
 </body>
+
 </html>
