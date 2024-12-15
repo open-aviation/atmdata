@@ -1,8 +1,11 @@
 title: Open Aviation Data
+
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A comprehensive collection of open aviation data sources covering air traffic management, 
+  flight operations, aircraft performance, airport infrastructure, surveillance systems, 
+  and weather information. This repository aims to provide researchers, analysts, and 
+  aviation professionals with easy access to essential aviation-related datasets and resources.
+
 domain: open-aviation.github.io
 url: "https://open-aviation.github.io"
 baseurl: "/atmdata" # the subpath of your site, e.g. /blog
@@ -11,8 +14,5 @@ baseurl: "/atmdata" # the subpath of your site, e.g. /blog
 include: ["_pages"]
 highlighter: rouge
 markdown: kramdown
-redcarpet:
-  extensions:
-    ["footnotes", "tables", "no_intra_emphasis", "autolink", "xhtml", "smart"]
 plugins:
   - jekyll-feed
