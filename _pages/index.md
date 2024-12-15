@@ -1,28 +1,30 @@
 ---
 layout: default
-title: atmdata.github.io
+title: Home
 permalink: /
 ---
 
 ## Background
 
-This website intends to reference any kind of (possibly open) data initiative related to aviation. It is supported by a group of academics, researchers and aviation people working to bring the power of data in order to improve the current state of the art in aviation.
+This website serves as a comprehensive repository of aviation-related data initiatives, with a focus on open data sources. It is maintained by a collaborative community of aviation professionals, academics, and researchers dedicated to leveraging data-driven approaches to advance aviation technology, safety, and efficiency.
 
-Our research interests include:
-- air traffic management;
-- air traffic operations;
-- safety;
-- security;
-- environment;
-- and more.
+The data sources listed on this website cover a wide range of topics, including:
+- air traffic management data
+- operation and schedule data
+- aircraft and performance data
+- airport and airspace data
+- aircraft surveillance data
+- weather and environment data
 
-Access to data can be hard but lines are moving; more and more data is going public.  
-The purpose of this website is to provide a reference to open sources of data in aviation. We obviously need your help to make this reference comprehensive.
 
 ## Contribute
+We welcome contributions to enhance this data repository! As aviation data sources continue to expand daily, there may be valuable resources not yet included in our listings.
 
-This effort is made as an unofficial side project. There is more data being made available every day and you may have found more data sources that are not yet listed here.
+Your contributions are appreciated in various areas:
+- Adding new data sources
+- Updating license information
+- Fixing grammatical errors or typos
+- Improving website structure
+- Enhancing website design
 
-Any help with respect to data sources, license information, grammar mistakes and typos, structure of the website, CSS design is more than welcome.
-
-Feel free to open an [issue](https://github.com/atmdata/atmdata.github.io/issues/new) or a [file a pull request](https://help.github.com/en/articles/creating-a-pull-request) on the [github](https://github.com/atmdata/atmdata.github.io) of the website.
+To contribute, please either [open an issue](https://github.com/atmdata/atmdata.github.io/issues/new) or [submit a pull request](https://help.github.com/en/articles/creating-a-pull-request) through our [GitHub repository](https://github.com/atmdata/atmdata.github.io).
