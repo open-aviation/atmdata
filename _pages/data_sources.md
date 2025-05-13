@@ -26,8 +26,8 @@ For all the above sources, the data are provided for non-commercial use only. Sp
 ## <i class="fas fa-plane"></i> Flight (or schedule) data
 
 The following websites provides access to flight data, usually contains the origin, destination, number of passengers or aircraft information
-
-- [🇺🇸 Bureau of Transportation Statistics (T-100 Segment, All Carriers)](https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FMG). This table combines domestic and international T-100 segment data reported by U.S. and foreign air carriers, and contains non-stop segment data by aircraft type and service class for transported passengers, freight and mail, available capacity, scheduled departures, departures performed, aircraft hours, and load factor. 
+- [🇪🇺 OPDI - Open Performance Data Initative] (https://www.opdi.aero/) contains the flight data based on OpenSky network flight data, enhanced to contain flight events and phases, like off-vlock time, take-off, start of climb, cruise, top of descent, etc. The goal of the website is to provide a data platform, to support higher levels of transparency and reproducibility of performance related monitoring and associated analyses. 
+- [🇺🇸 Bureau of Transportation Statistics Airlines, Airports and Aviation)](https://www.bts.gov/topics/airlines-airports-and-aviation). The website contains a number of different datasets related to aviation, from on-time performance, over passenger and cargo numbers, ticket prices, fuel cost to airline financial data. 
 - [🇪🇺 Aviation Data for Research](https://www.eurocontrol.int/dashboard/rnd-data-archive) contains all detailed flight information regarding flight departing and/or arriving from EUROCONTROL member states. The data is only publish with two-year delay and only include four months each year, which are March, June, September, and December. Access to this data need to be requested on the website.
 - [🇧🇷 Dados Estatísticos, Agência Nacional de Aviação Civil (ANAC), Brazil](https://www.gov.br/anac/pt-br/assuntos/dados-e-estatisticas/dados-estatisticos) provides all flight information departing from and/or arriving at Brazil since 2000
 - [🇮🇳 Flight Schedule Date, India](https://data.gov.in/resource/flight-schedule) contains the data regarding from AirSewa data, including data about the flight schedule, status, and airport services.
@@ -43,9 +43,12 @@ Several website provide databases of tail numbers, transponder hexcodes associat
 Aircraft information:
 
 - The OpenSky Network [aircraft database](https://opensky-network.org/aircraft-database) contains more than 460k frames;
+- FAA's [aircraft database](https://www.faa.gov/airports/engineering/aircraft_char_database/aircraft_data) is an excel file containing the aircraft codes, associated BADA profiles, various aircraft characteristics, like dimensions, weights, wake category, etc.
 - Some Regional Monitoring Agencies (RMA) provide an open access to data matching aircraft registered in their area, specifically in [Europe](https://www.eurocontrol.int/rmalive/operatorList.do) or in the [Middle-East](midrma.com/en/rvsm);
 - [airport-data.com](http://www.airport-data.com/api/doc.php) is a comprehensive airport and aircraft database free to request but you may officially not download the full database;
 - [doc8643.com](https://doc8643.com/) provides technical information related to many kinds of aircraft, as described in ICAO DOC 8643. See also [aircraft type](https://www.icao.int/publications/DOC8643/Pages/Search.aspx) and [manufacturers](https://www.icao.int/publications/DOC8643/Pages/Manufacturers.aspx)
+- Boeing's [Airport Planning Manuals](https://www.boeing.com/commercial/airports/plan-manuals), that contain details for airport servicing of the aircraft.
+- Airbus's [Airport and maintenance planning documents](https://aircraft.airbus.com/en/customer-care/fleet-wide-care/airport-operations-and-aircraft-characteristics/aircraft-characteristics) that contain details for airport servicing of aircraft.
 - [airwar.ru](http://airwar.ru/) is a comprehensive catalogue of technical data of aircraft (in Russian)
 - [Mictronics' aircraft DB](https://www.mictronics.de/aircraft-database/)
 - [Junzi's aircraft database](https://junzis.com/adb/) with about 150k frames (stopped updating in 2018)
