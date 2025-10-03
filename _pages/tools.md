@@ -104,3 +104,26 @@ A full, detailed list of the available features can be found in the manual and t
 <https://CRAN.R-project.org/package=openSkies>
 <https://github.com/Rafael-Ayala/openSkies>
 CC BY-NC 4.0 License
+
+## Mercury, an open source mobility simulator 
+Mercury is an open source mobility simulator designed by and for researchers. Mercury tracks aircraft across their trajectories, time at the airport, applying internal complex airline rules and optimisation processes. It also tracks passengers along their entire journey, gate-to-gate including connections and possible hurdles (cancelled flights etc). The simulator measures every aspect of the system, from passenger real delay to flight emissions and other processes.
+
+<https://github.com/UoW-ATM/Mercury>
+Sample data: <https://zenodo.org/records/11384379>
+GPL-3.0 license
+
+## CLIMaCCF Library
+
+The Python Library CLIMaCCF provides an open-source, easy-to-use, and flexible software tool that efficiently calculates spatially and temporally resolved *climate impact* of aviation emissions by using algorithmic climate change functions (aCCFs). The individual aCCFs of water vapour, NOx-induced ozone and methane, and contrail-cirrus and also merged aCCFs that combine the individual aCCFs can be calculated.
+
+<https://github.com/dlr-pa/climaccf>
+LGPL-3.0 license
+
+## OpenAirClim
+<img src="https://img.shields.io/badge/doi-10.5281/zenodo.13682728-brightgreen"/>
+
+https://zenodo.org/doi/10.5281/zenodo.13682728
+OpenAirClim is a model for simplified evaluation of the approximate chemistry-climate impact of air traffic emissions. The model represents the major responses of the atmosphere to emissions in terms of composition and climate change. Instead of applying time-consuming climate-chemistry models, a response model is developed and applied which reproduces the response of a climate-chemistry model without actually calculating ab initio all the physical and chemical effects. The responses are non-linear relations between localized emissions and Radiative Forcing and further climate indicators.
+
+<https://github.com/dlr-pa/oac>
+Apache-2.0 license
