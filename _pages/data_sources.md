@@ -69,7 +69,10 @@ Much of the performance related data are kept closed by manufacturers. Here is a
 
 Many sources on the Internet are somehow redundant. They overlap quite well but some sources are more precise than others in particular areas of the world:
 
+- The [EAD Basic](https://www.ead.eurocontrol.int/fwf-eadbasic/public/cms/cmscontent.faces?configKey=default.home.page) European AIS Database (EAD) is a free Public Access Service application for the general public, which  allows you to browse the  for a limited set of aeronautical information publications (AIP), given in pdf format. Registration is needed, and is free.
+- [EUROCONTROL's Airport Corner](https://www.eurocontrol.int/tool/airport-corner) this is an airport-focused data repository, for largest European airports. The public version has limited data access, but still contains  runways, airport capacities and other information of interest. 
 - The [FAA Aeronautical Data Delivery Service](https://adds-faa.opendata.arcgis.com/) provides a comprehensive database of relevant information over their airspace using standard format.
+- The [FAA's AIP](https://www.faa.gov/air_traffic/publications/atpubs/aip_html/#:~:text=Aeronautical%20Information%20Publication%20%2D%20AIP), all FAA AIP information and links to other data.
 - [OurAirports](https://ourairports.com/) is a free site where visitors can explore the world's airports. It has been launched after Australia forced the US to close their [DAFIF database](https://en.wikipedia.org/wiki/DAFIF) to the general public. Information about airports, even shutdown, and their runways is available, searchable and downloadable.
 - The API from [wikidata](https://www.wikidata.org/) could be used for all kind of
   [air transport infrastructure](https://commons.wikimedia.org/wiki/Category:Air_transport_infrastructure), like [airports](https://commons.wikimedia.org/wiki/Category:Airports), [taxiways](https://commons.wikimedia.org/wiki/Category:Taxiways) and [runways](https://commons.wikimedia.org/wiki/Category:Runways). You may run an [example request](https://w.wiki/FyU) for reference.
@@ -89,6 +92,20 @@ METARs report basic weather information around airports:
 The following website provides METAR, TAF and SIGMET history:
 
 - <http://www.aviationwxchartsarchive.com/product/sigmet>
+
+The US Aviation Weather Center - aviation weather data on the go:
+- https://aviationweather.gov/
+- API  access: https://aviationweather.gov/data/api/
+
+[ECMWF's Integrated Forecasting System ](https://www.ecmwf.int/en/forecasts/documentation-and-support/changes-ecmwf-model?check_logged_in=1). Different forecast products. Requires login.
+
+ERA5 reanalysis and other products available from [Climate Data Store](https://cds.climate.copernicus.eu/). Requires login (the same login as for ECMWF). 
+
+Volcanic ash info:
+
+- https://sacs.aeronomie.be/
+- https://www.ospo.noaa.gov/products/atmosphere/vaac/other-vaacs.html
+
 
 Miscellaneous:
 
@@ -110,6 +127,14 @@ The European Environment Agency makes some measurements available through the [f
 
 The Japanese National Institute for Environmental Studies provides historical data of air quality measurements:
 - Japan: [National Institute for Environmental Studies](http://www.nies.go.jp/igreen/) (Japanese)
+
+## <i class="fas fa-stats"></i> Statistics
+Various aviation related statistics.
+- [STATFOR](https://www.eurocontrol.int/dashboard/statfor-interactive-dashboard) a platform to suit the flight forecasting needs. Offers different views on fligths, airports, states by flight segments. Requires registration.
+- [🇺🇸 Bureau of Transportation Statistics Airlines, Airports and Aviation](https://www.bts.gov/topics/airlines-airports-and-aviation). The website contains a number of different datasets related to aviation, from on-time performance, over passenger and cargo numbers, ticket prices, fuel cost to airline financial data.
+- [EUROCONTROL's Our data](https://www.eurocontrol.int/our-data) quick access to various publicly available data on European aviation.
+- [Aviation Intelligence Portal](https://ansperformance.eu/)  insights into various aviation performance areas, in support of the independent work of the Performance Review Commission (PRC).
+- [Eurostat](https://ec.europa.eu/eurostat/web/main/data/database) different EU-wide statistics, transportation modes covered.
 
 ## <i class="fas fa-table-list"></i> Live data for airspace usage
 
