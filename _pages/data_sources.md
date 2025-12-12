@@ -70,7 +70,8 @@ Much of the performance related data are kept closed by manufacturers. Here is a
 Many sources on the Internet are somehow redundant. They overlap quite well but some sources are more precise than others in particular areas of the world:
 
 - The [EAD Basic](https://www.ead.eurocontrol.int/fwf-eadbasic/public/cms/cmscontent.faces?configKey=default.home.page) European AIS Database (EAD) is a free Public Access Service application for the general public, which  allows you to browse the  for a limited set of aeronautical information publications (AIP), given in pdf format. Registration is needed, and is free.
-- [EUROCONTROL's Airport Corner](https://www.eurocontrol.int/tool/airport-corner) this is an airport-focused data repository, for largest European airports. The public version has limited data access, but still contains  runways, airport capacities and other information of interest. 
+- [EUROCONTROL's Airport Corner](https://www.eurocontrol.int/tool/airport-corner) this is an airport-focused data repository, for largest European airports. The public version has limited data access, but still contains  runways, airport capacities and other information of interest.
+- [Free Worldwide Aviation Base](https://www.openaip.net/) The openaip platform provides current and precise worldwide aeronautical data. Based on contributions from a vibrant community of aviation enthusiasts. Free to use for anyone. Developer tools and API available.
 - The [FAA Aeronautical Data Delivery Service](https://adds-faa.opendata.arcgis.com/) provides a comprehensive database of relevant information over their airspace using standard format.
 - The [FAA's AIP](https://www.faa.gov/air_traffic/publications/atpubs/aip_html/#:~:text=Aeronautical%20Information%20Publication%20%2D%20AIP), all FAA AIP information and links to other data.
 - [OurAirports](https://ourairports.com/) is a free site where visitors can explore the world's airports. It has been launched after Australia forced the US to close their [DAFIF database](https://en.wikipedia.org/wiki/DAFIF) to the general public. Information about airports, even shutdown, and their runways is available, searchable and downloadable.
@@ -106,6 +107,9 @@ Volcanic ash info:
 - https://sacs.aeronomie.be/
 - https://www.ospo.noaa.gov/products/atmosphere/vaac/other-vaacs.html
 
+Contrail data:
+
+[GVCCS : Ground Visible Camera Contrail Sequences](https://doi.org/10.5281/zenodo.15743988) The GVCCS dataset provides the first open-access, instance-level annotated video dataset for contrail detection, segmentation, and tracking from Réuniwatt CamVision visible ground-based camera. Designed to support research into aviation’s non-CO₂ climate impacts, it contains 122 high-resolution video sequences (24,228 images) captured at EUROCONTROL’s Innovation Hub in Brétigny-sur-Orge, France.
 
 Miscellaneous:
 
