@@ -34,7 +34,8 @@ The following websites provides access to flight data, usually contains the orig
 - [🇦🇺 Aviation Statistics, Australia](https://www.bitre.gov.au/statistics/aviation) contains domestic and international aviation statistics including airline activity, domestic on time performance, domestic airfares index, airfreight, airport traffic, general aviation activity, aviation fuel sales and air distances.
 - [🇭🇰 Flight Information, Hong Kong](https://data.gov.hk/en-data/dataset/aahk-team1-flight-info) contains flight Information of Hong Kong International Airport, including data about the flight schedule, status, passenger/cargo flight. This web service returns historical data (previous calendar day) in 
 JSON format.
-- [🇺🇸 Sherlock](https://www.nasa.gov/ames/aviationsystems/sherlock-data-warehouse/) provides access to air traffic management (ATM) data for academia users, industry partners, and stakeholders. 
+- [🇺🇸 Sherlock](https://www.nasa.gov/ames/aviationsystems/sherlock-data-warehouse/) provides access to air traffic management (ATM) data for academia users, industry partners, and stakeholders.
+- [🇯🇵 CARATS](https://www.mlit.go.jp/en/koku/koku_fr13_000029.html) provides trajectory data including scheduled flights’ positions and time are provided in order to encourage involvement in research and development. Currently, data for the period between 2012 and 2016 is available.
 
 
 ## <i class="fas fa-plane"></i> Aircraft related data
