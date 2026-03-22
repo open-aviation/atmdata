@@ -19,6 +19,7 @@ Currently, the most easily accessible open flight data is undoubtedly ADS-B data
 - [adsb.lol](https://adsb.lol/)
 - [adsb.fi](https://adsb.fi/): new community of feeders who fled from ADS-B Exchange after it went commercial.
 - [TheAirTraffic](https://theairtraffic.com/)
+- [Virtual Radar](https://www.virtualradarserver.co.uk/), see also its regular [data dump](https://github.com/vradarserver/standing-data)
 
 
 For all the above sources, the data are provided for non-commercial use only. Specific agreements may be needed for commercial uses.
@@ -54,6 +55,7 @@ Aircraft information:
 - [airwar.ru](http://airwar.ru/) is a comprehensive catalogue of technical data of aircraft (in Russian)
 - [Mictronics' aircraft DB](https://www.mictronics.de/aircraft-database/)
 - [Junzi's aircraft database](https://junzis.com/adb/) with about 150k frames (stopped updating in 2018)
+- [Virtual Radar's dump, see aircraft files](https://github.com/vradarserver/standing-data)
 
 
 Transponder information:
