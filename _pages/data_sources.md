@@ -56,6 +56,7 @@ Aircraft information:
 - [Mictronics' aircraft DB](https://www.mictronics.de/aircraft-database/)
 - [Junzi's aircraft database](https://junzis.com/adb/) with about 150k frames (stopped updating in 2018)
 - [Virtual Radar's dump, see aircraft files](https://github.com/vradarserver/standing-data)
+- [Scraped airframe data by OpenAirframes](https://github.com/PlaneQuery/OpenAirframes)
 
 
 Transponder information:
