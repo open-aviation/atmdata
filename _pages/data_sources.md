@@ -20,9 +20,10 @@ Currently, the most easily accessible open flight data is undoubtedly ADS-B data
 - [adsb.fi](https://adsb.fi/): new community of feeders who fled from ADS-B Exchange after it went commercial.
 - [TheAirTraffic](https://theairtraffic.com/)
 - [Virtual Radar](https://www.virtualradarserver.co.uk/), see also its regular [data dump](https://github.com/vradarserver/standing-data)
+- [FlyItalyADSB](https://flyitalyadsb.com/en/data/api/) allows you to obtain live ADS-B and MLAT flight data worldwide from a community network of about 3,200 receivers, unfiltered, with a free API key (email only, up to 500 km around a point per request) and per-aircraft history since 2022, with gaps. The data is licensed CC BY-SA 4.0 and commercial use is allowed, free plan included.
 
 
-For all the above sources, the data are provided for non-commercial use only. Specific agreements may be needed for commercial uses.
+Unless stated otherwise, the data from the above sources are provided for non-commercial use only. Specific agreements may be needed for commercial uses.
 
 ## <i class="fas fa-plane"></i> Flight (or schedule) data
 
